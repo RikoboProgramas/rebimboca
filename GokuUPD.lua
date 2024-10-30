@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RikoboProgramas/rebimboca/refs/heads/main/GokuUPD.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RikoboProgramas/parafuseta/refs/heads/main/Script", true))()
 
 local loaded = false
  
