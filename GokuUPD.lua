@@ -492,12 +492,6 @@ local FormsList = {
     }, {
         name = "SSJ3",
         reqvalue = 95001,
-        endrangevalue = 140000,
-        alignment = "Neutral",
-        rebirthReq = 0
-    }, {
-        name = "LSSJ",
-        reqvalue = 140001,
         endrangevalue = 200000,
         alignment = "Neutral",
         rebirthReq = 0
