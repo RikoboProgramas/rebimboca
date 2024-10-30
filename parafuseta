@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RikoboProgramas/rebimbocadaparafuseta/refs/heads/main/rebimboca?token=GHSAT0AAAAAACZYMNICA6FTP7CFSACHDJVQZZCVBAA", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RikoboProgramas/rebimboca/refs/heads/main/parafuseta", true))()
 
 local loaded = false
  
