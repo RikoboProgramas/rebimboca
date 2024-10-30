@@ -611,18 +611,6 @@ local quests = {{
     name = "Klirin",
     nickname = "Klirin",
     requiredValue = 30001,
-    endRange = 60000,
-    planet = "Earth"
-}, {
-    name = "Kid Nohag",
-    nickname = "Kid Nohag",
-    requiredValue = 60001,
-    endRange = 80000,
-    planet = "Earth"
-}, {
-    name = "Turtle Student",
-    nickname = "Turtle Student",
-    requiredValue = 80001,
     endRange = 100000,
     planet = "Earth"
 }, {
@@ -635,12 +623,6 @@ local quests = {{
     name = "Mapa",
     nickname = "Mapa",
     requiredValue = 200001,
-    endRange = 300000,
-    planet = "Earth"
-}, {
-    name = "Citizen",
-    nickname = "Evil Saya",
-    requiredValue = 300001,
     endRange = 400000,
     planet = "Earth"
 }, {
