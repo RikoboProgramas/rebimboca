@@ -689,7 +689,7 @@ local quests = {{
     name = "SSJG Kakata",
     nickname = "SSJG Kakata",
     requiredValue = 100000000,
-    endRange = 300000000,
+    endRange = 2000000000000,
     planet = "Earth"
 }, {
     name = "Vegetable (GoD in-training)",
